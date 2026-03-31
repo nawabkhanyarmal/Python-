@@ -51,6 +51,11 @@ This portfolio reflects my understanding of **clean coding, logic building, and 
 - ⚖️ BMI Calculator  
 
 These programs focus on **logic building and real-world scenarios**.
+**Directory Structure**.
+📁 basics # Fundamental concepts and practice scripts
+📁 programs # Small Python problem-solving programs
+📁 projects # Mini CLI projects (Bank system, Age converter)
+📄 README.md # Project documentation
 
 ---
 
